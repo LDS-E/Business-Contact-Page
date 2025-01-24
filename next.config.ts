@@ -1,7 +1,7 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  /* config options here */
+  // Remova o reactRefresh e outras configurações experimentais desnecessárias
 };
 
 export default nextConfig;
