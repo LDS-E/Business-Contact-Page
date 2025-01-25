@@ -1,6 +1,6 @@
 # 📩 Business Contact Page
 
-**Business Contact Page** is a professional and responsive contact page designed for **small and medium-sized businesses** and **entrepreneurs**. 
+**Business Contact Page** is a professional and responsive contact page designed for **small and medium-sized businesses** and **entrepreneurs**.
 
 Built with **HTML, CSS, and JavaScript**, this project provides a **modern and user-friendly interface**, facilitating seamless communication between businesses and their customers.
 
@@ -21,6 +21,7 @@ Built with **HTML, CSS, and JavaScript**, this project provides a **modern and u
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/business-contact-page.git
+   ```
 2. Open index.html in your browser.
 
 🤝 Contributions
