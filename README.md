@@ -21,8 +21,6 @@ This project is built with **Next.js** and **TypeScript**, ensuring optimized pe
 ## 🛠 How to Use
 
 1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/business-contact-page.git
 
 2. Install dependencies: npm install
 
